@@ -120,7 +120,7 @@ var Layout = function () {
         e.preventDefault();
         var name = $("#name").val();
         var email = $("#email").val();
-        var text = $("#text").val();
+        var text = $("#message").val();
         var query = "name="+name+"&email="+email+"&text="+text;
 
         console.log(query);
