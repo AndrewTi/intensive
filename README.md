@@ -1,3 +1,3 @@
 # MARBLE
 
-## [DEMO](https://andrewti.github.io/MARBLE/)
+## [DEMO](https://andrewti.github.io/intensive/)
